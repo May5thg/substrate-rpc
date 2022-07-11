@@ -22,8 +22,8 @@ import (
 	"hash"
 	"strings"
 
-	"github.com/zhp12543/substrate-rpc/scale"
-	"github.com/zhp12543/substrate-rpc/xxhash"
+	"github.com/gaoqinying/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/xxhash"
 	"golang.org/x/crypto/blake2b"
 )
 

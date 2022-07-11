@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/zhp12543/substrate-rpc/types"
+	. "github.com/gaoqinying/substrate-rpc/types"
 )
 
 func TestMoment_EncodeDecode(t *testing.T) {

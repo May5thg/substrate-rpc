@@ -17,7 +17,7 @@
 package system
 
 import (
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // NetworkState retrieves the current state of the network

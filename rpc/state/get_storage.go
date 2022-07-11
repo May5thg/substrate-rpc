@@ -19,8 +19,8 @@ package state
 import (
 	"errors"
 	"fmt"
-	"github.com/zhp12543/substrate-rpc/client"
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // GetStorage retreives the stored data and decodes them into the provided interface. Ok is true if the value is not

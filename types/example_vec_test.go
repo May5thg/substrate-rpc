@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"reflect"
 
-	. "github.com/zhp12543/substrate-rpc/types"
+	. "github.com/gaoqinying/substrate-rpc/types"
 )
 
 func ExampleExampleVec_simple() {

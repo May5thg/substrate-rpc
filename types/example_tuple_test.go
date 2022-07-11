@@ -19,7 +19,7 @@ package types_test
 import (
 	"fmt"
 
-	. "github.com/zhp12543/substrate-rpc/types"
+	. "github.com/gaoqinying/substrate-rpc/types"
 
 	"golang.org/x/crypto/blake2b"
 )

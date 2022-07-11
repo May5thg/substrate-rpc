@@ -20,9 +20,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/zhp12543/substrate-rpc/config"
-	gethrpc "github.com/zhp12543/substrate-rpc/gethrpc"
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/config"
+	gethrpc "github.com/gaoqinying/substrate-rpc/gethrpc"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // NewHeadsSubscription is a subscription established through one of the Client's subscribe methods.

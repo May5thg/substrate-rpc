@@ -17,7 +17,7 @@
 package chain
 
 import (
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // GetBlockHash returns the block hash for a specific block height

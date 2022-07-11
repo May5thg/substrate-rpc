@@ -21,11 +21,11 @@ import (
 	"testing"
 	"time"
 
-	gsrpc "github.com/zhp12543/substrate-rpc"
-	"github.com/zhp12543/substrate-rpc/config"
-	"github.com/zhp12543/substrate-rpc/rpc/author"
-	"github.com/zhp12543/substrate-rpc/signature"
-	"github.com/zhp12543/substrate-rpc/types"
+	gsrpc "github.com/gaoqinying/substrate-rpc"
+	"github.com/gaoqinying/substrate-rpc/config"
+	"github.com/gaoqinying/substrate-rpc/rpc/author"
+	"github.com/gaoqinying/substrate-rpc/signature"
+	"github.com/gaoqinying/substrate-rpc/types"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 	"github.com/stretchr/testify/assert"
 )
 

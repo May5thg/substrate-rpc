@@ -17,8 +17,8 @@
 package chain
 
 import (
-	"github.com/zhp12543/substrate-rpc/client"
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // GetHeader retrieves the header for the specific block

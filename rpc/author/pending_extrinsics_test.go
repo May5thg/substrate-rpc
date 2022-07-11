@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"testing"
 
-	gsrpc "github.com/zhp12543/substrate-rpc"
-	"github.com/zhp12543/substrate-rpc/config"
+	gsrpc "github.com/gaoqinying/substrate-rpc"
+	"github.com/gaoqinying/substrate-rpc/config"
 	"github.com/stretchr/testify/assert"
 )
 

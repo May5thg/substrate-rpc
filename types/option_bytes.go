@@ -16,7 +16,7 @@
 
 package types
 
-import "github.com/zhp12543/substrate-rpc/scale"
+import "github.com/gaoqinying/substrate-rpc/scale"
 
 // OptionBytes is a structure that can store a Bytes or a missing value
 type OptionBytes struct {

@@ -16,7 +16,7 @@
 
 package types
 
-import "github.com/zhp12543/substrate-rpc/scale"
+import "github.com/gaoqinying/substrate-rpc/scale"
 
 // OptionU8 is a structure that can store a U8 or a missing value
 type OptionU8 struct {

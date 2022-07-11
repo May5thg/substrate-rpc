@@ -17,7 +17,7 @@
 package types
 
 import (
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 )
 
 // Null is a type that does not contain anything (apart from null)

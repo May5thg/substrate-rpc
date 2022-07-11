@@ -19,7 +19,7 @@ package xxhash_test
 import (
 	"testing"
 
-	. "github.com/zhp12543/substrate-rpc/xxhash"
+	. "github.com/gaoqinying/substrate-rpc/xxhash"
 	"github.com/stretchr/testify/assert"
 )
 

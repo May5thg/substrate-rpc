@@ -16,7 +16,7 @@
 
 package author
 
-import "github.com/zhp12543/substrate-rpc/types"
+import "github.com/gaoqinying/substrate-rpc/types"
 
 // SubmitExtrinsic will submit a fully formatted extrinsic for block inclusion
 func (a *Author) SubmitExtrinsic(xt types.Extrinsic) (types.Hash, error) {

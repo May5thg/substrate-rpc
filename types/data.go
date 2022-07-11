@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 )
 
 // Data is a raw data structure, containing raw bytes that are not decoded/encoded (without any length encoding).

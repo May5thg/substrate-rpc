@@ -21,7 +21,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	. "github.com/zhp12543/substrate-rpc/types"
+	. "github.com/gaoqinying/substrate-rpc/types"
 )
 
 var exampleMetadataV7 = Metadata{

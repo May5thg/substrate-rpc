@@ -17,7 +17,7 @@
 package types
 
 import (
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 )
 
 // ChainProperties contains the SS58 format, the token decimals and the token symbol

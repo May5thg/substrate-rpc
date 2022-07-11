@@ -1,6 +1,6 @@
 package offchain
 
-import "github.com/zhp12543/substrate-rpc/client"
+import "github.com/gaoqinying/substrate-rpc/client"
 
 // Offchain exposes methods for retrieval of off-chain data
 type Offchain struct {

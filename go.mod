@@ -1,4 +1,4 @@
-module github.com/zhp12543/substrate-rpc
+module github.com/gaoqinying/substrate-rpc
 
 go 1.15
 

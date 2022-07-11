@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/zhp12543/substrate-rpc/scale"
-	"github.com/zhp12543/substrate-rpc/xxhash"
+	"github.com/gaoqinying/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/xxhash"
 )
 
 // StorageKey represents typically hashed storage keys of the system.

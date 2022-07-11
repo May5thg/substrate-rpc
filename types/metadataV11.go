@@ -1,6 +1,6 @@
 package types
 
-import "github.com/zhp12543/substrate-rpc/scale"
+import "github.com/gaoqinying/substrate-rpc/scale"
 
 // Modelled after packages/types/src/Metadata/v10/toV11.ts
 type MetadataV11 struct {

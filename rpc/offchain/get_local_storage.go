@@ -3,7 +3,7 @@ package offchain
 import (
 	"fmt"
 
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // StorageKind ...

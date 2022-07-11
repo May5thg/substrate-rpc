@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 )
 
 // U8 is an unsigned 8-bit integer

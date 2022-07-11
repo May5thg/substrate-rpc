@@ -17,7 +17,7 @@
 package types
 
 import (
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 )
 
 // Origin is an internal-only value that will be ignored when encoding/decoding

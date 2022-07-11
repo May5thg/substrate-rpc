@@ -25,8 +25,8 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/zhp12543/substrate-rpc/scale"
-	"github.com/zhp12543/substrate-rpc/signature"
+	"github.com/gaoqinying/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/signature"
 )
 
 const (

@@ -17,7 +17,7 @@
 package chain
 
 import (
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // GetFinalizedHead returns the hash of the last finalized block in the canon chain

@@ -19,8 +19,8 @@ package types
 import (
 	"fmt"
 
-	"github.com/zhp12543/substrate-rpc/scale"
-	"github.com/zhp12543/substrate-rpc/signature"
+	"github.com/gaoqinying/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/signature"
 )
 
 // ExtrinsicPayloadV3 is a signing payload for an Extrinsic. For the final encoding, it is variable length based on

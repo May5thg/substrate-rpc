@@ -17,13 +17,13 @@
 package rpc
 
 import (
-	"github.com/zhp12543/substrate-rpc/client"
-	"github.com/zhp12543/substrate-rpc/rpc/author"
-	"github.com/zhp12543/substrate-rpc/rpc/chain"
-	"github.com/zhp12543/substrate-rpc/rpc/offchain"
-	"github.com/zhp12543/substrate-rpc/rpc/state"
-	"github.com/zhp12543/substrate-rpc/rpc/system"
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/rpc/author"
+	"github.com/gaoqinying/substrate-rpc/rpc/chain"
+	"github.com/gaoqinying/substrate-rpc/rpc/offchain"
+	"github.com/gaoqinying/substrate-rpc/rpc/state"
+	"github.com/gaoqinying/substrate-rpc/rpc/system"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 type RPC struct {

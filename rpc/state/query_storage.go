@@ -17,8 +17,8 @@
 package state
 
 import (
-	"github.com/zhp12543/substrate-rpc/client"
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // QueryStorage queries historical storage entries (by key) starting from a start block until an end block

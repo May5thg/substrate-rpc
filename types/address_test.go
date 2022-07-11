@@ -20,8 +20,8 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/zhp12543/substrate-rpc/hash"
-	. "github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/hash"
+	. "github.com/gaoqinying/substrate-rpc/types"
 	"github.com/btcsuite/btcutil/base58"
 	"github.com/stretchr/testify/assert"
 )

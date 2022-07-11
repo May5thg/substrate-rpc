@@ -20,7 +20,7 @@ import (
 	"math/big"
 	"testing"
 
-	. "github.com/zhp12543/substrate-rpc/types"
+	. "github.com/gaoqinying/substrate-rpc/types"
 	"github.com/stretchr/testify/assert"
 )
 

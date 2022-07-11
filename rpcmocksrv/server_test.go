@@ -19,7 +19,7 @@ package rpcmocksrv
 import (
 	"testing"
 
-	gethrpc "github.com/zhp12543/substrate-rpc/gethrpc"
+	gethrpc "github.com/gaoqinying/substrate-rpc/gethrpc"
 	"github.com/stretchr/testify/assert"
 )
 

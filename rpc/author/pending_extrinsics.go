@@ -17,7 +17,7 @@
 package author
 
 import (
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // PendingExtrinsics returns all pending extrinsics, potentially grouped by sender

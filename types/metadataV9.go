@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 )
 
 // Modelled after packages/types/src/Metadata/v9/Metadata.ts

@@ -20,8 +20,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/zhp12543/substrate-rpc/client"
-	"github.com/zhp12543/substrate-rpc/config"
+	"github.com/gaoqinying/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/config"
 )
 
 var chain *Chain

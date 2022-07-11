@@ -19,7 +19,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 )
 
 // Bytes represents byte slices. Bytes has a variable length, it is encoded with a scale prefix

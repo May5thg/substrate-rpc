@@ -16,7 +16,7 @@
 
 package author
 
-import "github.com/zhp12543/substrate-rpc/client"
+import "github.com/gaoqinying/substrate-rpc/client"
 
 // Author exposes methods for authoring of network items
 type Author struct {

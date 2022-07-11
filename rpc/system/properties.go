@@ -17,7 +17,7 @@
 package system
 
 import (
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // Properties retrieves a custom set of properties as a JSON object, defined in the chain spec

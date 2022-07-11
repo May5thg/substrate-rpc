@@ -17,8 +17,8 @@
 package chain
 
 import (
-	"github.com/zhp12543/substrate-rpc/client"
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // GetBlock returns the header and body of the relay chain block with the given hash

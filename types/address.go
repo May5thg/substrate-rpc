@@ -19,7 +19,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 )
 
 // Address is a wrapper around an AccountId or an AccountIndex. It is encoded with a prefix in case of an AccountID.

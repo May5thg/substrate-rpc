@@ -19,7 +19,7 @@ package types_test
 import (
 	"testing"
 
-	. "github.com/zhp12543/substrate-rpc/types"
+	. "github.com/gaoqinying/substrate-rpc/types"
 )
 
 func TestString_EncodeDecode(t *testing.T) {

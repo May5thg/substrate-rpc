@@ -17,8 +17,8 @@
 package state
 
 import (
-	"github.com/zhp12543/substrate-rpc/client"
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // GetChildKeys retreives the keys with the given prefix of a specific child storage

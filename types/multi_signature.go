@@ -16,7 +16,7 @@
 
 package types
 
-import "github.com/zhp12543/substrate-rpc/scale"
+import "github.com/gaoqinying/substrate-rpc/scale"
 
 // MultiSignature
 type MultiSignature struct {

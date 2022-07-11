@@ -17,8 +17,8 @@
 package gsrpc
 
 import (
-	"github.com/zhp12543/substrate-rpc/client"
-	"github.com/zhp12543/substrate-rpc/rpc"
+	"github.com/gaoqinying/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/rpc"
 )
 
 type SubstrateAPI struct {

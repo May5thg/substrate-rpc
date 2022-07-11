@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/zhp12543/substrate-rpc/scale"
-	. "github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/scale"
+	. "github.com/gaoqinying/substrate-rpc/types"
 )
 
 // MyVal is a custom type that is used to hold arbitrarily encoded data. In this example, we encode uint8s with a 0x00

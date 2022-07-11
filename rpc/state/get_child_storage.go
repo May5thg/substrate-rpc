@@ -17,8 +17,8 @@
 package state
 
 import (
-	"github.com/zhp12543/substrate-rpc/client"
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // GetChildStorage retreives the child storage for a key and decodes them into the provided interface. Ok is true if the

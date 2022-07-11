@@ -16,7 +16,7 @@
 
 package state
 
-import "github.com/zhp12543/substrate-rpc/client"
+import "github.com/gaoqinying/substrate-rpc/client"
 
 // State exposes methods for querying state
 type State struct {

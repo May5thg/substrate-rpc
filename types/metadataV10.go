@@ -22,9 +22,9 @@ import (
 	"hash"
 	"strings"
 
-	ghash "github.com/zhp12543/substrate-rpc/hash"
-	"github.com/zhp12543/substrate-rpc/scale"
-	"github.com/zhp12543/substrate-rpc/xxhash"
+	ghash "github.com/gaoqinying/substrate-rpc/hash"
+	"github.com/gaoqinying/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/xxhash"
 )
 
 // Modelled after packages/types/src/Metadata/v10/Metadata.ts

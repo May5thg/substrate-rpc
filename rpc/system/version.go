@@ -17,7 +17,7 @@
 package system
 
 import (
-	"github.com/zhp12543/substrate-rpc/types"
+	"github.com/gaoqinying/substrate-rpc/types"
 )
 
 // Version retrieves the version of the node

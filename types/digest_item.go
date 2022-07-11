@@ -19,7 +19,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/zhp12543/substrate-rpc/scale"
+	"github.com/gaoqinying/substrate-rpc/scale"
 )
 
 // DigestItem specifies the item in the logs of a digest

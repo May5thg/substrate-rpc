@@ -17,7 +17,7 @@
 package chain
 
 import (
-	"github.com/zhp12543/substrate-rpc/client"
+	"github.com/gaoqinying/substrate-rpc/client"
 )
 
 // Chain exposes methods for retrieval of chain data

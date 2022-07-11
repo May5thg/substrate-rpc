@@ -16,7 +16,7 @@
 
 package types
 
-import "github.com/zhp12543/substrate-rpc/scale"
+import "github.com/gaoqinying/substrate-rpc/scale"
 
 // OptionH160 is a structure that can store a H160 or a missing value
 type OptionH160 struct {
